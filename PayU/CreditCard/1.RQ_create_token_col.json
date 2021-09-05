@@ -1,0 +1,7 @@
+{
+  "token_type": "credit_card",
+  "credit_card_cvv": "777",
+  "card_number": "4097440000000004",
+  "expiration_date": "06/30",
+  "holder_name": "Test"
+}

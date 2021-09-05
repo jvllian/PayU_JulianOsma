@@ -1,0 +1,21 @@
+{
+  "payment_method": {
+    "credit_card_cvv": "777",
+    "token": "{{token}}",
+    "type": "tokenized"
+  },
+  "provider_specific_data": {
+    "payu_latam": {
+      "additional_details": {
+        "cookie": "",
+        "customer_national_identify_number": "123456",
+        "payer_email": "John.Doe@email.com"
+      },
+      "device_fingerprint": {
+        "fingerprint": "35",
+        "provider": "PayULatam"
+      }
+    }
+  },
+  "reconciliation_id": "{{$randomInt}}"
+}

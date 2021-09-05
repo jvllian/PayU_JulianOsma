@@ -1,0 +1,16 @@
+{
+  "merchant_site_url": "http://www.abc.com/return-url",
+  "payment_method": {
+    "source_type": "cash",
+    "type": "untokenized",
+    "vendor": "OTHERS_CASH",
+    "additional_details": {
+      "order_language": "es",
+      "cash_payment_method_vendor": "OTHERS_CASH",
+      "customer_cnpj_identify_number": "32593371000110",
+      "payment_method": "PSE",
+      "payment_country": "COL"
+    }
+  },
+  "reconciliation_id": "{{$randomInt}}"
+}

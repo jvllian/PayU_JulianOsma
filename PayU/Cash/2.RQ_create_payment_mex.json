@@ -1,0 +1,6 @@
+{
+  "amount": 5000000,
+  "currency": "COP",
+  "statement_soft_descriptor": "pago efectivo",
+  "reconciliation_id": "{{$randomInt}}"
+}
